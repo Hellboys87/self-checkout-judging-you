@@ -2,7 +2,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const JUDGMENTAL_LINE =
-  "Six energy drinks, one toothbrush and apology flowers — a separate bag for the flowers won't separate you from last night.";
+  "Six energy drinks, one toothbrush and apology flowers — separate bag approved. She'll still know they're an apology, and exactly why.";
 
 const MAX_LINE_LENGTH = 200;
 
